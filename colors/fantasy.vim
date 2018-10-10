@@ -31,7 +31,7 @@ hi Identifier guifg=#af8787 guibg=NONE guisp=NONE gui=NONE ctermfg=138 ctermbg=N
 hi SpecialChar guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi Conditional guifg=#af875f guibg=NONE guisp=NONE gui=bold ctermfg=137 ctermbg=NONE cterm=bold
 hi StorageClass guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
-hi Todo guifg=#ffffaf guibg=#d75f5f guisp=#d75f5f gui=NONE ctermfg=229 ctermbg=162 cterm=NONE
+hi Todo guifg=#af8787 guibg=NONE guisp=#912C00 gui=NONE ctermfg=138 ctermbg=NONE cterm=NONE
 hi Special guifg=#afaf87 guibg=NONE guisp=NONE gui=NONE ctermfg=144 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#af8787 guibg=NONE guisp=NONE gui=NONE ctermfg=138 ctermbg=NONE cterm=NONE
 hi StatusLine guifg=#ccc8cc guibg=#262626 guisp=#262626 gui=bold ctermfg=252 ctermbg=235 cterm=bold
@@ -61,14 +61,14 @@ hi PreProc guifg=#d7d7d7 guibg=NONE guisp=NONE gui=NONE ctermfg=188 ctermbg=NONE
 hi Visual guifg=#192224 guibg=#F9F9FF guisp=#F9F9FF gui=NONE ctermfg=235 ctermbg=189 cterm=NONE
 hi MoreMsg guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
 hi SpellCap guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
-hi VertSplit guifg=#8a8a8a guibg=#262626 guisp=#262626 gui=bold ctermfg=245 ctermbg=235 cterm=bold
+hi VertSplit guifg=#8a8a8a guibg=NONE guisp=NON gui=bold ctermfg=245 ctermbg=NONE cterm=bold
 hi Exception guifg=#ffaf87 guibg=NONE guisp=NONE gui=NONE ctermfg=216 ctermbg=NONE cterm=NONE
 hi Keyword guifg=#5f875f guibg=NONE guisp=NONE gui=bold ctermfg=65 ctermbg=NONE cterm=bold
 hi Type guifg=#aaafb8 guibg=NONE guisp=NONE gui=bold ctermfg=250 ctermbg=NONE cterm=bold
 hi DiffChange guifg=NONE guibg=#af5f5f guisp=#af5f5f gui=NONE ctermfg=NONE ctermbg=131 cterm=NONE
 hi Cursor guifg=#192224 guibg=#F9F9F9 guisp=#F9F9F9 gui=NONE ctermfg=235 ctermbg=15 cterm=NONE
 hi SpellLocal guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
-hi Error guifg=#A1A6A8 guibg=#912C00 guisp=#912C00 gui=NONE ctermfg=248 ctermbg=88 cterm=NONE
+hi Error guifg=#af8787 guibg=NONE guisp=#912C00 gui=NONE ctermfg=138 ctermbg=NONE cterm=NONE
 hi PMenu guifg=#a59887 guibg=#2a2720 guisp=#2a2720 gui=NONE ctermfg=144 ctermbg=235 cterm=NONE
 hi SpecialKey guifg=#5E6C70 guibg=NONE guisp=NONE gui=italic ctermfg=66 ctermbg=NONE cterm=NONE
 hi Constant guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
